@@ -1,2 +1,2 @@
-# Informe-Calificacion
+# Informe-Calificación
 Calificador
